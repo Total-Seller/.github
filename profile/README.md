@@ -2,7 +2,7 @@
 # 👨🏽‍💻 Sistema de Gestão Integrado - Total Seller!
 
 ## Sobre nós: 
-🌱 - A Total Seller é uma empresa especializada em soluções de gerenciamento empresarial, com foco em sistemas ERP e integrações a marketplaces. Com mais de X anos de experiência no mercado, nossa equipe está comprometida em fornecer as melhores soluções para ajudar nossos clientes a otimizar seus processos de negócios e aumentar sua eficiência.
+🌱 - A Total Seller é uma empresa especializada em soluções de gerenciamento empresarial, com foco em sistemas ERP e integrações a marketplaces. Com mais de 18 anos de experiência no mercado, nossa equipe está comprometida em fornecer as melhores soluções para ajudar nossos clientes a otimizar seus processos de negócios e aumentar sua eficiência.
 
 💬- Nossos sistemas ERP são altamente personalizáveis e podem ser adaptados às necessidades específicas de cada empresa. Eles incluem recursos avançados de gerenciamento de estoque, vendas, finanças e muito mais, tudo em um só lugar para simplificar as operações comerciais. Além disso, nossas integrações a marketplaces permitem que nossos clientes expandam suas vendas e alcancem novos públicos sem precisar lidar com a complexidade da gestão de múltiplas plataformas.
 
