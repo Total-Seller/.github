@@ -1,4 +1,4 @@
-# <img aling="right" width="55%" alt="GIF" src="https://www.totalseller.com.br/assets/images/logo_totalseller.png" height="80" /> 
+# <img aling="right" width="55%" alt="GIF" src="https://www.totalseller.com.br/assets/images/logo_totalseller.png" height="80" />
 # 👨🏽‍💻 Sistema de Gestão Integrado - Total Seller!
 
 ## Sobre nós: 
