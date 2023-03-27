@@ -1,5 +1,5 @@
 <img img width="55%" alt="GIF" src="https://www.totalseller.com.br/assets/images/logo_totalseller.png" height="80" />
-# Sobre a Total Seller
+Sobre a Total Seller:
 
 A Total Seller é uma empresa especializada em soluções de gerenciamento empresarial, com foco em sistemas ERP e integrações a marketplaces. Com mais de X anos de experiência no mercado, nossa equipe está comprometida em fornecer as melhores soluções para ajudar nossos clientes a otimizar seus processos de negócios e aumentar sua eficiência.
 
