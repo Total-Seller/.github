@@ -1,12 +1,9 @@
-## Hi there 👋
+# <img aling="right" width="55%" alt="GIF" src="https://www.totalseller.com.br/assets/images/logo_totalseller.png" height="80" /> 
+# 👨🏽‍💻 Sistema de Gestão Integrado - Total Seller!
 
-<!--
+## Sobre nós: 
+🌱 - A Total Seller é uma empresa especializada em soluções de gerenciamento empresarial, com foco em sistemas ERP e integrações a marketplaces. Com mais de X anos de experiência no mercado, nossa equipe está comprometida em fornecer as melhores soluções para ajudar nossos clientes a otimizar seus processos de negócios e aumentar sua eficiência.
 
-**Here are some ideas to get you started:**
+💬- Nossos sistemas ERP são altamente personalizáveis e podem ser adaptados às necessidades específicas de cada empresa. Eles incluem recursos avançados de gerenciamento de estoque, vendas, finanças e muito mais, tudo em um só lugar para simplificar as operações comerciais. Além disso, nossas integrações a marketplaces permitem que nossos clientes expandam suas vendas e alcancem novos públicos sem precisar lidar com a complexidade da gestão de múltiplas plataformas.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📫 - Na Total Seller, nossa missão é fornecer soluções tecnológicas de alta qualidade e serviços excepcionais para ajudar nossos clientes a crescer e prosperar. Se você está procurando uma solução ERP ou uma integração de marketplace, entre em contato conosco para saber como podemos ajudá-lo a alcançar seus objetivos comerciais.
